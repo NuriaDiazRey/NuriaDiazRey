@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Nuria Díaz Rey - AI Engineer" width="100%">
+</p> 
+
 # Hi, I'm Nuria Díaz Rey 👋
 
 ### AI Engineer | Building Agentic AI & LLM-powered Systems
