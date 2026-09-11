@@ -28,24 +28,48 @@ Robotics Engineer focused on building production-oriented AI systems, combining 
 
 ## 🛠️ Technologies & Tools
 
-### AI Engineering
-`Python` · `LLMs` · `RAG` · `AI Agents` · `Tool Calling` · `Prompt Engineering`
+### 🧠 AI & Data
 
-### Backend & Integrations
-`FastAPI` · `REST APIs` · `Pydantic` · `Webhooks` · `JSON`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" title="Scikit-learn"/>
+</p>
 
-### Agentic AI & LLM Ecosystem
-`LangChain` · `LangGraph` · `OpenAI API` · `Vector Databases`
+**AI concepts:** `LLMs` · `RAG` · `AI Agents` · `Tool Calling` · `Model Evaluation`
 
-### AI Evaluation
-`Pytest` · `LLM Evaluation` · `Model Testing` · `Performance Metrics`
+### 🤖 Agentic AI & Vector Search
 
-### Infrastructure & Engineering
-`Docker` · `Git` · `GitHub Actions` · `CI/CD`
+<p>
+  <img src="https://cdn.simpleicons.org/langgraph" width="45" height="45" title="LangGraph"/>
+  <img src="https://cdn.simpleicons.org/qdrant" width="45" height="45" title="Qdrant"/>
+</p>
 
-### Applied AI & Automation
-`n8n` · `Botpress` · `Retell AI` · `Qdrant` · `Airtable`
+### ⚙️ Backend & Databases
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/supabase" width="45" height="45" title="Supabase"/>
+</p>
+
+### 🔄 Automation & AI Platforms
+
+<p>
+  <img src="https://cdn.simpleicons.org/n8n" width="45" height="45" title="n8n"/>
+  <img src="https://cdn.simpleicons.org/make" width="45" height="45" title="Make"/>
+</p>
+
+### 🛠️ Engineering
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
+</p>
+
+---
 ---
 
 ### Contact
