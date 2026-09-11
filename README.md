@@ -8,7 +8,7 @@
 
 Robotics Engineer focused on building production-oriented AI systems, combining **LLMs, agentic workflows, RAG, APIs and automation** to solve real-world problems.
 
-[LinkedIn](TU_LINKEDIN) · [Email](mailto:TU_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/nuria-diaz-rey/) · [Email](nuriadiazrey@gmail.com)
 
 ---
 
