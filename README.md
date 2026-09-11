@@ -8,7 +8,7 @@ Robotics Engineer focused on building production-oriented AI systems, combining 
 
 ---
 
-> *"Building AI systems that don't just generate responses — they understand, decide and act."*
+> *"Engineering starts with understanding the problem, not choosing the technology."*
 
 ---
 
@@ -48,62 +48,6 @@ Robotics Engineer focused on building production-oriented AI systems, combining 
 
 ---
 
-## 🚀 Featured Projects
+### Contact
 
-### 🏥 Agentic Healthcare Assistant
-**Python · LangGraph · FastAPI · RAG · Tool Calling**
-
-Production-oriented AI agent designed for a fictional healthcare environment.
-
-The system combines retrieval-augmented generation with external tools to handle patient requests, retrieve trusted information, manage appointments and escalate sensitive cases when human intervention is required.
-
-**Key concepts:** Agent orchestration · RAG · Tool calling · Guardrails · Evaluation · Human-in-the-loop
-
-`🚧 Currently building`
-
----
-
-### 📞 AI Voice Agent
-**Python · LLMs · Speech-to-Text · Text-to-Speech · APIs**
-
-Code-first voice AI system capable of holding conversations and executing actions through external tools and APIs.
-
-`📌 Planned`
-
----
-
-### 🧠 Enterprise RAG System
-**Python · RAG · Vector Database · FastAPI · LLM Evaluation**
-
-Enterprise knowledge assistant focused on reliable information retrieval, citations and systematic evaluation of retrieval and generation quality.
-
-`📌 Planned`
-
----
-
-## 📚 Currently Exploring
-
-I'm currently going deeper into:
-
-- Agentic AI architectures
-- LangGraph and stateful agents
-- Advanced RAG systems
-- LLM evaluation and observability
-- Production-ready Python for AI applications
-- AI system design
-
----
-
-## 🎯 What I'm Building Towards
-
-I'm interested in building **AI systems that go beyond simple LLM wrappers** — applications capable of retrieving information, reasoning over context, interacting with external systems and reliably executing actions.
-
-My goal is to combine my background in **engineering, AI evaluation and applied AI** with stronger software engineering practices to build scalable, production-ready AI systems.
-
----
-
-### Let's connect
-
-I'm always interested in discussing **AI Engineering, Agentic AI, LLM applications and applied AI systems**.
-
-[LinkedIn](TU_LINKEDIN) · [Email](mailto:TU_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/nuria-diaz-rey/) · [Email](nuriadiazrey@gmail.com)
