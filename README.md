@@ -8,7 +8,7 @@
 
 AI Engineer focused on building production-oriented AI systems, combining **LLMs, agentic workflows, RAG, APIs and automation** to solve real-world problems.
 
-[LinkedIn](https://www.linkedin.com/in/nuria-diaz-rey/) · [Email](nuriadiazrey@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nuria-diaz-rey/) · [Email](mailto:nuriadiazrey@gmail.com)
 
 ---
 
@@ -78,4 +78,4 @@ AI Engineer focused on building production-oriented AI systems, combining **LLMs
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/nuria-diaz-rey/) · [Email](nuriadiazrey@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nuria-diaz-rey/) · [Email](mailto:nuriadiazrey@gmail.com)
