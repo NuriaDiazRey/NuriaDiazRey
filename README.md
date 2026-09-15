@@ -6,7 +6,7 @@
 
 ### AI Engineer | Building Agentic AI & LLM-powered Systems
 
-Robotics Engineer focused on building production-oriented AI systems, combining **LLMs, agentic workflows, RAG, APIs and automation** to solve real-world problems.
+AI Engineer focused on building production-oriented AI systems, combining **LLMs, agentic workflows, RAG, APIs and automation** to solve real-world problems.
 
 [LinkedIn](https://www.linkedin.com/in/nuria-diaz-rey/) · [Email](nuriadiazrey@gmail.com)
 
